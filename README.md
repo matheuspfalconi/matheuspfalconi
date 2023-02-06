@@ -1,12 +1,15 @@
-![](https://komarev.com/ghpvc/?username=matheuspfalconi&color=green)
-[![Linkedin Badge](https://img.shields.io/badge/-matheusfalconi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-falconi-a53a32153/)](https://www.linkedin.com/in/matheus-falconi-a53a32153/)
-[![Twitter Badge](https://img.shields.io/badge/-@wtf_presida-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wtf_presida)](https://twitter.com/wtf_presida)
+## Bem Vindo! :D
 
-Hi there, I'm Matheus Falconi! 👋
+Pra quem não me conhece me chamo Matheus Falconi, sou Desenvolvedor Front-End e Design Social Media.
+Pra quem já me conhece, eu também sou o Matheus!
 
-<a href="https://github.com/matheuspfalconi/">
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspfalconi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspfalconi&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-</a>
+<div style="display: inline_block">
+  <img align="center" alt="HTML" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+  <img align="center" alt="CSS" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+  <img align="center" alt="SASS" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+  <img align="center" alt="JavaScript" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img align="center" alt="TypeScript" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+  <img align="center" alt="React" width="40" src="https://cdn-icons-png.flaticon.com/512/760/760457.png">
+  <img align="center" alt="PHP" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
+  <img align="center" alt="Sql" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
+</div>
