@@ -3,6 +3,8 @@
 Pra quem não me conhece me chamo Matheus Falconi, sou Desenvolvedor Front-End e Design Social Media.</br>
 Pra quem já me conhece, eu também sou o Matheus!
 
+Sinta-se à vontade!
+
 ## Conhecimentos
 
 <div style="display: inline_block">
